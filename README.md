@@ -4,11 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitsvutt&label=Profile%20views&color=0e75b6&style=flat" alt="nitsvutt" /> </p>
 
+- 👨‍💻 I'm currently working as a Data Engineer at [Viettel Solutions](https://solutions.viettel.vn/vi)
+
 - 🔭 I’m currently working on [Airline Data Platform](https://github.com/nitsvutt/airline-data-platform)
 
 - 🌱 I’m currently learning **Delta Lake**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/nitsvutt?tab=repositories)
+- 📝 All of my projects are available at [here](https://github.com/nitsvutt?tab=repositories)
 
 - 📫 How to reach me **nitsvutt@gmail.com**
 
