@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/main/assets/wave.gif" height="26" alt="there">, I'm Tran Trieu Vu</h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+an+enthusiastic+Data+Engineer+from+Vietnam+🇻🇳" alt="Welcome to my GitHub Profile. I am an enthusiastic Data Engineer from Vietnam 🇻🇳" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+an+enthusiastic+Data+Engineer+from+Vietnam+🇻🇳" alt="Welcome to my GitHub Profile - I am an enthusiastic Data Engineer from Vietnam 🇻🇳" />
 </p>
 
 <p align="center"> 
@@ -15,15 +15,15 @@
 
 - ❤️‍🔥 Data Engineering is my cup of tea.
     
-- 🧑‍🎓 I graduated from [University of Information Technology](https://www.uit.edu.vn)
+- 🧑‍🎓 I graduated from [University of Information Technology](https://www.uit.edu.vn).
     
-- 👨‍💻 I'm currently a Data Engineer at [Viettel Solutions](https://solutions.viettel.vn/vi)
+- 👨‍💻 I'm currently a Data Engineer at [Viettel Solutions](https://solutions.viettel.vn/vi).
 
-- 🔭 I’m currently working on [Airline Data Platform](https://github.com/nitsvutt/airline-data-platform)
+- 🔭 I’m currently working on [Airline Data Platform](https://github.com/nitsvutt/airline-data-platform).
 
-- 🌱 I’m currently learning [Delta Lake](https://delta.io/)
+- 🌱 I’m currently learning [Delta Lake](https://delta.io/).
 
-- 📝 All of my projects are available at [here](https://github.com/nitsvutt?tab=repositories)
+- 📝 All of my projects are available at [here](https://github.com/nitsvutt?tab=repositories).
 
 </p>
 
