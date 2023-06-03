@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tran Trieu Vu</h1>
 <h3 align="center">An enthusiastic Data Engineer from Vietnam</h3>
-<img align="center" alt="Coding" width="1200" src="https://media.licdn.com/dms/image/D4E12AQEE6REf-vVcMQ/article-inline_image-shrink_400_744/0/1668981838186?e=1690416000&v=beta&t=5PSTZWq1AuZ7FwXD8vTQcIe1X9WJNuA7JxkeTthWhag">
+<img align="center" alt="Coding" width="1000" src="https://media.licdn.com/dms/image/D4E12AQEE6REf-vVcMQ/article-inline_image-shrink_400_744/0/1668981838186?e=1690416000&v=beta&t=5PSTZWq1AuZ7FwXD8vTQcIe1X9WJNuA7JxkeTthWhag">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitsvutt&label=Profile%20views&color=0e75b6&style=flat" alt="nitsvutt" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Delta Lake**
 
-- 👨‍💻 All of my projects are available at [github.com/nitsvutt](https://github.com/nitsvutt?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/nitsvutt?tab=repositories)
 
 - 📫 How to reach me **nitsvutt@gmail.com**
 
