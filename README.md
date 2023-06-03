@@ -39,8 +39,6 @@
     <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=nitsvutt&" alt="nitsvutt" />
 </p>
 
-<p align="center"><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=nitsvutt&" alt="nitsvutt" /></p>
-
 <h3 align="center">Contact me</h3>
 
 <p align="center">
