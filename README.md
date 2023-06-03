@@ -22,7 +22,7 @@
     <img align="center" height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitsvutt&show_icons=true&locale=en&layout=compact" alt="nitsvutt" />
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitsvutt&" alt="nitsvutt" /></p>
+<p align="center"><img align="center" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nitsvutt&" alt="nitsvutt" /></p>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=nitsvutt&label=Profile%20views&color=0e75b6&style=flat" alt="nitsvutt" />
