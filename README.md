@@ -5,7 +5,7 @@
 
 <p>
 
-- 🧑‍🎓 I graduated from University of Information Technology <a href="https://www.uit.edu.vn"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="uit" height="20" /></a>
+- 🧑‍🎓 I graduated from [University of Information Technology](https://www.uit.edu.vn)"
     
 - 👨‍💻 I'm currently a Data Engineer at [**Viettel Solutions**](https://solutions.viettel.vn/vi)
 
