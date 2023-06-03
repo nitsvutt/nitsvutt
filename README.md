@@ -2,7 +2,10 @@
 <h3 align="center">An enthusiastic Data Engineer from Vietnam</h3>
 <img align="right" alt="Autogenic Data Platform" width="400" src="https://media.licdn.com/dms/image/D4E12AQEE6REf-vVcMQ/article-inline_image-shrink_400_744/0/1668981838186?e=1690416000&v=beta&t=5PSTZWq1AuZ7FwXD8vTQcIe1X9WJNuA7JxkeTthWhag">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitsvutt&label=Profile%20views&color=0e75b6&style=flat" alt="nitsvutt" /> </p>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=nitsvutt&label=Profile%20views&color=0e75b6&style=flat" alt="nitsvutt" />
+    <img align="right" height="330px" width="450px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
+</p>
 
 - 👨‍💻 I'm currently a Data Engineer at [**Viettel Solutions**](https://solutions.viettel.vn/vi)
 
