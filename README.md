@@ -24,7 +24,6 @@
 - 🌱 I’m currently learning [Delta Lake](https://delta.io/).
 
 - 📝 All of my projects are available at [here](https://github.com/nitsvutt?tab=repositories).
-
 </p>
 
 <h3 align="center">Languages and Tools</h3>
