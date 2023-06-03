@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://image.pngaaa.com/403/6179403-middle.png" height="26" alt="there">, I'm Tran Trieu Vu</h1>
+<h1 align="center">Hi <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/main/assets/wave.gif" height="26" alt="there">, I'm Tran Trieu Vu</h1>
 <h3 align="center">An enthusiastic Data Engineer from Vietnam 🇻🇳</h3>
 
 <p align="center"> 
