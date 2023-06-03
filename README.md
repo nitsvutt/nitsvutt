@@ -13,7 +13,7 @@
 
 <p>
 
-- ❤️‍🔥 I love Data Engineering.
+- ❤️‍🔥 Data Engineering is my cup of tea.
     
 - 🧑‍🎓 I graduated from [University of Information Technology](https://www.uit.edu.vn)
     
