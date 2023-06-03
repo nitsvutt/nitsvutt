@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Delta Lake**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nitsvutt?tab=repositories](https://github.com/nitsvutt?tab=repositories)
+- 👨‍💻 All of my projects are available at [github.com/nitsvutt](https://github.com/nitsvutt?tab=repositories)
 
 - 📫 How to reach me **nitsvutt@gmail.com**
 
