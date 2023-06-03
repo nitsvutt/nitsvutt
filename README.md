@@ -4,7 +4,7 @@
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=nitsvutt&label=Profile%20views&color=0e75b6&style=flat" alt="nitsvutt" />
-    <img src="https://img.shields.io/github/stars/JayantGoel001?label=Stars" alt="stars">
+    <img src="https://img.shields.io/github/stars/nitsvutt?label=Stars" alt="stars">
 </p>
 
 - 👨‍💻 I'm currently a Data Engineer at [**Viettel Solutions**](https://solutions.viettel.vn/vi)
