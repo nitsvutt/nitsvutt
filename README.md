@@ -35,6 +35,6 @@
     <img src="https://img.shields.io/github/stars/nitsvutt?label=Stars" alt="stars">
 </p>
 
-<p>
+<p align="center">
 <a href="mailto:nitsvutt@gmail.com" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="nitsvutt" height="20" /></a> <a href="https://linkedin.com/in/nitsvutt" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="nitsvutt" height="20" /></a> <a href="https://instagram.com/nitsvutt" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitsvutt" height="20" /></a>
 </p>
