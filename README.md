@@ -2,8 +2,6 @@
 <h3 align="center">An enthusiastic Data Engineer from Vietnam</h3>
 
 <p
-<img align="right" alt="Autogenic Data Platform" width="400" src="https://media.licdn.com/dms/image/D4E12AQEE6REf-vVcMQ/article-inline_image-shrink_400_744/0/1668981838186?e=1690416000&v=beta&t=5PSTZWq1AuZ7FwXD8vTQcIe1X9WJNuA7JxkeTthWhag">
-
 - 👨‍💻 I'm currently a Data Engineer at [**Viettel Solutions**](https://solutions.viettel.vn/vi)
 
 - 🔭 I’m currently working on [**Airline Data Platform**](https://github.com/nitsvutt/airline-data-platform)
@@ -13,6 +11,9 @@
 - 📝 All of my projects are available at [**here**](https://github.com/nitsvutt?tab=repositories)
 
 - 📫 You can reach me through <a href="mailto:nitsvutt@gmail.com" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="nitsvutt" height="22" /></a> <a href="https://linkedin.com/in/nitsvutt" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="nitsvutt" height="22" /></a> <a href="https://instagram.com/nitsvutt" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitsvutt" height="22" /></a>
+
+<img align="right" alt="Autogenic Data Platform" width="400" src="https://media.licdn.com/dms/image/D4E12AQEE6REf-vVcMQ/article-inline_image-shrink_400_744/0/1668981838186?e=1690416000&v=beta&t=5PSTZWq1AuZ7FwXD8vTQcIe1X9WJNuA7JxkeTthWhag">
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
