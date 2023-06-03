@@ -21,7 +21,7 @@
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitsvutt&show_icons=true&locale=en" alt="nitsvutt"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitsvutt&show_icons=true&locale=en&layout=compact" alt="nitsvutt" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitsvutt&show_icons=true&locale=en&layout=compact" alt="nitsvutt" />
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitsvutt&" alt="nitsvutt" /></p>
