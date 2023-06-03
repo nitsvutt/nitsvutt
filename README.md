@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tran Trieu Vu</h1>
 <h3 align="center">An enthusiastic Data Engineer from Vietnam</h3>
-(img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQEE6REf-vVcMQ/article-inline_image-shrink_400_744/0/1668981838186?e=1690416000&v=beta&t=5PSTZWq1AuZ7FwXD8vTQcIe1X9WJNuA7JxkeTthWhag")
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQEE6REf-vVcMQ/article-inline_image-shrink_400_744/0/1668981838186?e=1690416000&v=beta&t=5PSTZWq1AuZ7FwXD8vTQcIe1X9WJNuA7JxkeTthWhag">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitsvutt&label=Profile%20views&color=0e75b6&style=flat" alt="nitsvutt" /> </p>
 
