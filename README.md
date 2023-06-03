@@ -35,9 +35,13 @@
 <p align="center">
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=nitsvutt&show_icons=true&locale=en" alt="nitsvutt"/>
     <img width="250" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitsvutt&show_icons=true&locale=en&layout=compact" alt="nitsvutt" />
+    <br>
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=nitsvutt&" alt="nitsvutt" />
 </p>
 
 <p align="center"><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=nitsvutt&" alt="nitsvutt" /></p>
+
+<h3 align="center">Contact me</h3>
 
 <p align="center">
     <a href="https://linkedin.com/in/nitsvutt" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="nitsvutt" height="30" /></a>
