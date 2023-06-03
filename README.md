@@ -32,11 +32,11 @@
 <h3 align="center">Github Statistics:</h3>
 
 <p align="center">
-    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=nitsvutt&show_icons=true&locale=en" alt="nitsvutt"/>
-    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitsvutt&show_icons=true&locale=en&layout=compact" alt="nitsvutt" />
+    <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=nitsvutt&show_icons=true&locale=en" alt="nitsvutt"/>
+    <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitsvutt&show_icons=true&locale=en&layout=compact" alt="nitsvutt" />
 </p>
 
-<p align="center"><img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=nitsvutt&" alt="nitsvutt" /></p>
+<p align="center"><img align="center" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nitsvutt&" alt="nitsvutt" /></p>
 
 <p align="center">
     <a href="https://linkedin.com/in/nitsvutt" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="nitsvutt" height="30" /></a>
