@@ -45,7 +45,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="mysql" width="40" height="40"/>
     </a>
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://companieslogo.com/img/orig/4716.T-d53d3071.png?t=1603005248" style="position:absolute; top:0; left:0; transform:translate(-50%, -50%)" title="Oracle" alt="oracle" width="15"/>
+        <img src="https://companieslogo.com/img/orig/4716.T-d53d3071.png?t=1603005248" style="position:absolute; top:0; left:0; transform:translate(-50%, -50%)" title="Oracle" alt="oracle" width="35"/>
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://www.postgresql.org/media/img/about/press/elephant.png" title="PostgreSQL" alt="postgresql" width="40" height="40"/>
