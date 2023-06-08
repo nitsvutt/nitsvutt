@@ -45,7 +45,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="mysql" width="40" height="40"/>
     </a>
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-        <img src="https://assets.stickpng.com/images/62deb17dff3c6e4b8b5de8c9.png" title="MariaDB" alt="mariadb" width="40" height="40"/>
+        <img src="https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/11/mariadb-logo-vert_black-transparent-600x489.png.webp" title="MariaDB" alt="mariadb" width="40" height="40"/>
     </a>
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img src="https://companieslogo.com/img/orig/4716.T-d53d3071.png?t=1603005248" title="Oracle" alt="oracle" height="38"/>
