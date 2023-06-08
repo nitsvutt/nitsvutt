@@ -60,10 +60,10 @@
         <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" title="Apache Hadoop" alt="hadoop" width="40" height="40"/>
     </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" title="Pandas library" alt="pandas" width="40" height="40" />
+        <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" title="Pandas" alt="pandas" width="40" height="40" />
     </a>
-    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" title="Apache Spark" alt="spark" width="40" height="40" />
+    <a href="https://www.pola.rs/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dark.svg" title="Pollars" alt="pollars" width="40" height="40" />
     </a>
     <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" title="Apache Spark" alt="spark" width="40" height="40" />
