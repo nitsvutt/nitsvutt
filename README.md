@@ -19,11 +19,11 @@
     
 - 🧑‍🎓 I graduated from [University of Information Technology](https://www.uit.edu.vn).
     
-- 👨‍💻 I'm currently a Data Engineer at [Viettel Solutions](https://solutions.viettel.vn/vi).
+- 👨‍💻 I am currently a Data Engineer at [Viettel Solutions](https://solutions.viettel.vn/vi).
 
-- 🔭 I’m currently working on [Airline Data Platform](https://github.com/nitsvutt/airline-data-platform).
+- 🔭 I am currently working on [Airline Data Platform](https://github.com/nitsvutt/airline-data-platform).
 
-- 🌱 I’m currently learning [Delta Lake](https://delta.io/).
+- 🌱 I am currently learning [Delta Lake](https://delta.io/).
 
 - 📝 All of my projects are available at [here](https://github.com/nitsvutt?tab=repositories).
     
