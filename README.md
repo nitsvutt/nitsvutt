@@ -89,7 +89,7 @@
 
 <p align="center">
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=nitsvutt&show_icons=true&locale=en" alt="nitsvutt"/>
-    <img width="200" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitsvutt&show_icons=true&locale=en&layout=compact" alt="nitsvutt" />
+    <img width="240" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitsvutt&show_icons=true&locale=en&layout=compact" alt="nitsvutt" />
     <br>
     <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=nitsvutt&" alt="nitsvutt" />
 </p>
