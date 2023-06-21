@@ -80,6 +80,15 @@
     <a href="https://dolphinscheduler.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://qph.cf2.quoracdn.net/main-thumb-t-7549904-100-pbdeeosihzjeevwgfzmjbargkmjowveu.jpeg" title="Apache DolphinScheduler" alt="dolphinscheduler" height="40" />
     </a>
+</p>
+
+<p align="center">
+    <a href="https://superset.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.know-bi.be/hubfs/42724554.png" title="Superset" alt="superset" height="38" />
+    </a>
+    <a href="https://www.metabase.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.metabase.com/images/logo.svg" title="Metabase" alt="metabase" height="38" />
+    </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" title="Docker" alt="docker" height="38" />
     </a>
