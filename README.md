@@ -48,7 +48,7 @@
         <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent-600x489.png" title="MariaDB" alt="mariadb" width="40" height="40"/>
     </a>
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://assets.stickpng.com/images/62bc7af6071dec17849af323.png" title="Oracle" alt="oracle" height="40"/>
+        <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" title="Oracle" alt="oracle" height="40"/>
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://www.postgresql.org/media/img/about/press/elephant.png" title="PostgreSQL" alt="postgresql" width="40" height="40"/>
