@@ -56,14 +56,14 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" title="MongoDB" alt="mongodb" width="40" height="40"/>
     </a>
+    <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
+        <img src="https://lh3.googleusercontent.com/p9ST3mhfKqDdxwwgyGHCFmCddgFeHnYlQfCbORDHJm48z1cZhEknPXlbY_iGsnr2sIPk8EVanoqGjA=e14-rw-lo-sc0xffffff-h48" title="Google Cloud Bigquery" alt="bigquery" width="40" height="40"/>
+    </a>
     <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" title="Apache Cassandra" alt="cassandra" width="40" height="40"/>
     </a>
     <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" title="Apache Hadoop" alt="hadoop" width="40" height="40"/>
-    </a>
-    <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
-        <img src="https://lh3.googleusercontent.com/p9ST3mhfKqDdxwwgyGHCFmCddgFeHnYlQfCbORDHJm48z1cZhEknPXlbY_iGsnr2sIPk8EVanoqGjA=e14-rw-lo-sc0xffffff-h48" title="Google Cloud Bigquery" alt="bigquery" width="40" height="40"/>
     </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" title="Pandas" alt="pandas" width="40" height="40" />
