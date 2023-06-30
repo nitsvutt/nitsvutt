@@ -48,7 +48,7 @@
         <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent-600x489.png" title="MariaDB" alt="mariadb" width="40" height="40"/>
     </a>
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://companieslogo.com/img/orig/4716.T-d53d3071.png?t=1603005248" title="Oracle" alt="oracle" height="38"/>
+        <img src="https://assets.stickpng.com/images/62bc7af6071dec17849af323.png" title="Oracle" alt="oracle" height="40"/>
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://www.postgresql.org/media/img/about/press/elephant.png" title="PostgreSQL" alt="postgresql" width="40" height="40"/>
@@ -63,7 +63,7 @@
         <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" title="Apache Hadoop" alt="hadoop" width="40" height="40"/>
     </a>
     <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
-        <img src="https://lh3.googleusercontent.com/p9ST3mhfKqDdxwwgyGHCFmCddgFeHnYlQfCbORDHJm48z1cZhEknPXlbY_iGsnr2sIPk8EVanoqGjA=e14-rw-lo-sc0xffffff-h48" title="Google Cloud Bigquery" alt="bigquery" width="38" height="38"/>
+        <img src="https://lh3.googleusercontent.com/p9ST3mhfKqDdxwwgyGHCFmCddgFeHnYlQfCbORDHJm48z1cZhEknPXlbY_iGsnr2sIPk8EVanoqGjA=e14-rw-lo-sc0xffffff-h48" title="Google Cloud Bigquery" alt="bigquery" width="40" height="40"/>
     </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" title="Pandas" alt="pandas" width="40" height="40" />
@@ -78,7 +78,7 @@
         <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" title="Apache Kafka" alt="kafka" width="40" height="40"/>
     </a>
     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA" title="Apache Airflow" alt="airflow" width="38" height="38"/>
+        <img src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA" title="Apache Airflow" alt="airflow" width="40" height="40"/>
     </a>
     <a href="https://dolphinscheduler.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://qph.cf2.quoracdn.net/main-thumb-t-7549904-100-pbdeeosihzjeevwgfzmjbargkmjowveu.jpeg" title="Apache DolphinScheduler" alt="dolphinscheduler" height="40" />
@@ -93,7 +93,7 @@
         <img src="https://redash.io/assets/images/elements/redash-logo.svg" title="Redash" alt="redash" height="40" />
     </a>
     <a href="https://superset.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.know-bi.be/hubfs/42724554.png" title="Superset" alt="superset" height="40" />
+        <img src="https://www.know-bi.be/hubfs/42724554.png" title="Apache Superset" alt="superset" height="40" />
     </a>
     <a href="https://www.metabase.com/" target="_blank" rel="noreferrer">
         <img src="https://www.metabase.com/images/logo.svg" title="Metabase" alt="metabase" height="40" />
