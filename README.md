@@ -90,16 +90,16 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/1969px-Grafana_icon.svg.png" title="Grafana" alt="grafana" height="38" />
     </a>
     <a href="https://redash.io/" target="_blank" rel="noreferrer">
-        <img src="https://redash.io/assets/images/elements/redash-logo.svg" title="Redash" alt="redash" height="38" />
+        <img src="https://redash.io/assets/images/elements/redash-logo.svg" title="Redash" alt="redash" height="40" />
     </a>
     <a href="https://superset.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.know-bi.be/hubfs/42724554.png" title="Superset" alt="superset" height="38" />
+        <img src="https://www.know-bi.be/hubfs/42724554.png" title="Superset" alt="superset" height="40" />
     </a>
     <a href="https://www.metabase.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.metabase.com/images/logo.svg" title="Metabase" alt="metabase" height="38" />
+        <img src="https://www.metabase.com/images/logo.svg" title="Metabase" alt="metabase" height="40" />
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" title="Docker" alt="docker" height="38" />
+        <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" title="Docker" alt="docker" height="40" />
     </a>
 </p>
 
