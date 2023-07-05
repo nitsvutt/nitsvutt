@@ -86,12 +86,6 @@
 </p>
 
 <p align="center">
-    <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/1969px-Grafana_icon.svg.png" title="Grafana" alt="grafana" height="38" />
-    </a>
-    <a href="https://redash.io/" target="_blank" rel="noreferrer">
-        <img src="https://redash.io/assets/images/elements/redash-logo.svg" title="Redash" alt="redash" height="40" />
-    </a>
     <a href="https://superset.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.know-bi.be/hubfs/42724554.png" title="Apache Superset" alt="superset" height="40" />
     </a>
