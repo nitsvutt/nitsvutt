@@ -20,7 +20,7 @@
     
 - 👨‍💻 I am currently a Data Engineer at [Viettel Solutions](https://solutions.viettel.vn/vi).
 
-- 🔭 I am currently working on [Airline Data Platform](https://github.com/nitsvutt/airline-data-platform).
+- 🔭 I am currently working on [Query Examples](https://github.com/nitsvutt/query-examples).
 
 - 🌱 I am currently learning [Delta Lake](https://delta.io/).
 
