@@ -86,7 +86,7 @@
 
 <p align="center">
     <a href="https://superset.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://superset.apache.org/img/superset-mark-dark.svg" title="Apache Superset" alt="superset" height="40" />
+        <img src="https://apache-superset.readthedocs.io/en/0.28.1/_images/s.png" title="Apache Superset" alt="superset" height="40" />
     </a>
     <a href="https://www.metabase.com/" target="_blank" rel="noreferrer">
         <img src="https://www.metabase.com/images/logo.svg" title="Metabase" alt="metabase" height="40" />
