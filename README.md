@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/main/assets/wave.gif" height="26" alt="there">, welcome to my GitHub Profile!
+    Hi<img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/main/assets/wave.gif" height="26" alt="there">, welcome to my GitHub Profile!
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
