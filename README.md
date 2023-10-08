@@ -68,7 +68,7 @@
         <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dark.svg" title="Pollars" alt="pollars" width="40" height="40" />
     </a>
     <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" title="Apache Spark" alt="spark" width="40" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png" title="Apache Spark" alt="spark" width="40" height="40" />
     </a>
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" title="Apache Kafka" alt="kafka" width="40" height="40"/>
