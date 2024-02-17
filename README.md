@@ -18,7 +18,7 @@
     
 - 🧑‍🎓 I graduated from [University of Information Technology](https://www.uit.edu.vn).
     
-- 👨‍💻 I am currently a Data Engineer at [Viettel Solutions](https://solutions.viettel.vn/vi).
+- 👨‍💻 I am currently a Data Engineer at [Asia Commercial Bank](https://acb.com.vn/).
 
 - 🔭 I am currently working on [Query Examples](https://github.com/nitsvutt/query-examples).
 
