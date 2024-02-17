@@ -91,6 +91,9 @@
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1234px-Kubernetes_logo_without_workmark.svg.png" title="Kubernetes" alt="kubernetes" height="40" />
     </a>
+    <a href="https://iceberg.apache.org/" target="blank" rel="noreferrer">
+        <img src="https://storage.googleapis.com/external-docs-assets/logos/apache_iceberg.png" title="Apache Iceberg" alt="iceberg" height="40" />
+    </a>
 </p>
 
 <h3 align="center">Github Statistics</h3>
