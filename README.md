@@ -64,8 +64,8 @@
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" title="Pandas" alt="pandas" width="40" height="40" />
     </a>
-    <a href="https://www.pola.rs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dark.svg" title="Pollars" alt="pollars" width="40" height="40" />
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.try.direct/files/8400033b-cf2e-4fc4-ac91-45cadee082ed.svg" title="FastAPI" alt="fastapi" width="40" height="40" />
     </a>
     <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" title="Apache Spark" alt="spark" width="40" height="40" />
