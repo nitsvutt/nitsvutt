@@ -22,7 +22,7 @@
 
 - 🔭 I am currently working on [Query Examples](https://github.com/nitsvutt/query-examples).
 
-- 🌱 I am currently learning [Delta Lake](https://delta.io/).
+- 🌱 I am currently learning [Apache Iceberg](https://iceberg.apache.org/).
 
 - 📝 All of my projects are available at [here](https://github.com/nitsvutt?tab=repositories).
     
