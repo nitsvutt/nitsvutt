@@ -10,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=nitsvutt" alt="profile views" />
 </p>
 
-<img align="right" title="Autogenic Data Platform" alt="Data Architecture Evolution" width="400" src="https://www.databricks.com/wp-content/uploads/2020/01/data-lakehouse-new.png">
+<img align="right" title="Autogenic Data Platform" alt="Data Architecture Evolution" width="600" src="https://www.databricks.com/wp-content/uploads/2020/01/data-lakehouse-new.png">
 
 <p>
 
