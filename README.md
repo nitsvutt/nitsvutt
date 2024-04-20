@@ -40,9 +40,6 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="mysql" width="40" height="40"/>
     </a>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-        <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent-600x489.png" title="MariaDB" alt="mariadb" width="40" height="40"/>
-    </a>
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" title="Oracle" alt="oracle" height="40"/>
     </a>
@@ -52,14 +49,14 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" title="MongoDB" alt="mongodb" width="40" height="40"/>
     </a>
-    <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
-        <img src="https://lh3.googleusercontent.com/p9ST3mhfKqDdxwwgyGHCFmCddgFeHnYlQfCbORDHJm48z1cZhEknPXlbY_iGsnr2sIPk8EVanoqGjA=e14-rw-lo-sc0xffffff-h48" title="Google Cloud Bigquery" alt="bigquery" width="40" height="40"/>
-    </a>
     <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" title="Apache Cassandra" alt="cassandra" width="40" height="40"/>
     </a>
     <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" title="Apache Hadoop" alt="hadoop" width="40" height="40"/>
+    </a>
+    <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
+        <img src="https://lh3.googleusercontent.com/p9ST3mhfKqDdxwwgyGHCFmCddgFeHnYlQfCbORDHJm48z1cZhEknPXlbY_iGsnr2sIPk8EVanoqGjA=e14-rw-lo-sc0xffffff-h48" title="Google Cloud Bigquery" alt="bigquery" width="40" height="40"/>
     </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" title="Pandas" alt="pandas" width="40" height="40" />
@@ -79,20 +76,20 @@
     <a href="https://dolphinscheduler.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://d7umqicpi7263.cloudfront.net/img/product/d6b7960d-94a3-4f70-b285-082c7f2ced4f/1588b9d8-47b8-40b5-b002-feb6e6e4fbea" title="Apache DolphinScheduler" alt="dolphinscheduler" height="40" />
     </a>
+    <a href="https://www.metabase.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.metabase.com/images/logo.svg" title="Metabase" alt="metabase" height="40" />
+    </a>
 </p>
 
 <p align="center">
-    <a href="https://www.metabase.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.metabase.com/images/logo.svg" title="Metabase" alt="metabase" height="40" />
+    <a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://storage.googleapis.com/external-docs-assets/logos/apache_iceberg.png" title="Apache Iceberg" alt="iceberg" height="40" />
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" title="Docker" alt="docker" height="40" />
     </a>
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1234px-Kubernetes_logo_without_workmark.svg.png" title="Kubernetes" alt="kubernetes" height="40" />
-    </a>
-    <a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://storage.googleapis.com/external-docs-assets/logos/apache_iceberg.png" title="Apache Iceberg" alt="iceberg" height="40" />
     </a>
 </p>
 
