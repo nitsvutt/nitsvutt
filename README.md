@@ -73,9 +73,6 @@
     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA" title="Apache Airflow" alt="airflow" width="40" height="40"/>
     </a>
-    <a href="https://dolphinscheduler.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://d7umqicpi7263.cloudfront.net/img/product/d6b7960d-94a3-4f70-b285-082c7f2ced4f/1588b9d8-47b8-40b5-b002-feb6e6e4fbea" title="Apache DolphinScheduler" alt="dolphinscheduler" height="40" />
-    </a>
     <a href="https://www.metabase.com/" target="_blank" rel="noreferrer">
         <img src="https://www.metabase.com/images/logo.svg" title="Metabase" alt="metabase" height="40" />
     </a>
