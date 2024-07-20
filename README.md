@@ -10,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=nitsvutt" alt="profile views" />
 </p>
 
-<img align="right" title="Autogenic Data Platform" alt="Data Architecture Evolution" width="400" src="https://www.databricks.com/wp-content/uploads/2020/01/data-lakehouse-new.png">
+<img align="right" title="Data Architecture Evolution" alt="Data Architecture Evolution" width="400" src="https://www.databricks.com/wp-content/uploads/2020/01/data-lakehouse-new.png">
 
 <p>
 
@@ -18,7 +18,7 @@
     
 - 🧑‍🎓 I graduated from [University of Information Technology](https://www.uit.edu.vn).
     
-- 👨‍💻 I am currently a Data Engineer at [Asia Commercial Bank](https://acb.com.vn/).
+- 👨‍💻 I currently work as a Data Engineer for [Asia Commercial Bank](https://acb.com.vn/).
 
 - 🔭 I am currently working on [Iceberg Lakehouse Platform](https://github.com/nitsvutt/iceberg-lakehouse-platform).
 
