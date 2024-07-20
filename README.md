@@ -10,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=nitsvutt" alt="profile views" />
 </p>
 
-<img align="right" title="Data Architecture Evolution" alt="Data Architecture Evolution" width="400" src="https://www.databricks.com/wp-content/uploads/2020/01/data-lakehouse-new.png">
+<img align="right" title="Data Engineering" alt="Data Engineering" width="400" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Top_Data_Engineering_Tools_for_2022.jpg">
 
 <p>
 
