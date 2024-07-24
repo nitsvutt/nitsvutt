@@ -71,7 +71,7 @@
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" title="Apache Spark" alt="spark" width="40" height="40" />
     </a>
     <a href="https://impala.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/apache-impala-logo-png-transparent.png" title="Apache Impala" alt="impala" width="40" />
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/apache-impala-logo-png-transparent.png" title="Apache Impala" alt="impala" height="40" />
     </a>
     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA" title="Apache Airflow" alt="airflow" width="40" height="40"/>
