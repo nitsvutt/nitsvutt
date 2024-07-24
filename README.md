@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=54A6FF&pause=10&center=true&vCenter=true&multiline=true&width=720&height=70&lines=I+am+Tran+Trieu+Vu,;an+enthusiastic+Data+Engineer+from+Vietnam+🇻🇳" alt="I am Tran Trieu Vu, an enthusiastic Data Engineer from Vietnam 🇻🇳" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=54A6FF&pause=0&center=true&vCenter=true&multiline=true&width=720&height=70&lines=I+am+Tran+Trieu+Vu,;an+enthusiastic+Data+Engineer+from+Vietnam+🇻🇳" alt="I am Tran Trieu Vu, an enthusiastic Data Engineer from Vietnam 🇻🇳" />
 </p>
 
 <p align="center"> 
