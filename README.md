@@ -52,9 +52,6 @@
     <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" title="Apache Cassandra" alt="cassandra" width="40" height="40"/>
     </a>
-    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" title="Apache Hadoop" alt="hadoop" width="40" height="40"/>
-    </a>
     <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
         <img src="https://lh3.googleusercontent.com/p9ST3mhfKqDdxwwgyGHCFmCddgFeHnYlQfCbORDHJm48z1cZhEknPXlbY_iGsnr2sIPk8EVanoqGjA=e14-rw-lo-sc0xffffff-h48" title="Google Cloud Bigquery" alt="bigquery" width="40" height="40"/>
     </a>
@@ -79,6 +76,12 @@
 </p>
 
 <p align="center">
+    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" title="Apache Hadoop" alt="hadoop" width="40" height="40"/>
+    </a>
+    <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://hive.apache.org/images/hive.svg" title="Apache Hive" alt="hive" width="40" height="40"/>
+    </a>
     <a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://storage.googleapis.com/external-docs-assets/logos/apache_iceberg.png" title="Apache Iceberg" alt="iceberg" height="40" />
     </a>
