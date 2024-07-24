@@ -52,26 +52,29 @@
     <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" title="Apache Cassandra" alt="cassandra" width="40" height="40"/>
     </a>
-    <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
-        <img src="https://lh3.googleusercontent.com/p9ST3mhfKqDdxwwgyGHCFmCddgFeHnYlQfCbORDHJm48z1cZhEknPXlbY_iGsnr2sIPk8EVanoqGjA=e14-rw-lo-sc0xffffff-h48" title="Google Cloud Bigquery" alt="bigquery" width="40" height="40"/>
-    </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" title="Pandas" alt="pandas" width="40" height="40" />
     </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.try.direct/files/8400033b-cf2e-4fc4-ac91-45cadee082ed.svg" title="FastAPI" alt="fastapi" width="40" height="40" />
     </a>
-    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" title="Apache Spark" alt="spark" width="40" height="40" />
+    <a href="https://www.metabase.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.metabase.com/images/logo.svg" title="Metabase" alt="metabase" height="40" />
     </a>
+</p>
+
+<p align="center">
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" title="Apache Kafka" alt="kafka" width="40" height="40"/>
     </a>
+    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" title="Apache Spark" alt="spark" width="40" height="40" />
+    </a>
+    <a href="https://impala.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/apache-impala-logo-png-transparent.png" title="Apache Impala" alt="impala" width="40" height="40" />
+    </a>
     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA" title="Apache Airflow" alt="airflow" width="40" height="40"/>
-    </a>
-    <a href="https://www.metabase.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.metabase.com/images/logo.svg" title="Metabase" alt="metabase" height="40" />
     </a>
 </p>
 
@@ -84,6 +87,9 @@
     </a>
     <a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://storage.googleapis.com/external-docs-assets/logos/apache_iceberg.png" title="Apache Iceberg" alt="iceberg" height="40" />
+    </a>
+    <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
+        <img src="https://lh3.googleusercontent.com/p9ST3mhfKqDdxwwgyGHCFmCddgFeHnYlQfCbORDHJm48z1cZhEknPXlbY_iGsnr2sIPk8EVanoqGjA=e14-rw-lo-sc0xffffff-h48" title="Google Cloud Bigquery" alt="bigquery" width="40" height="40"/>
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" title="Docker" alt="docker" height="40" />
