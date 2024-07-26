@@ -20,7 +20,7 @@
     
 - 👨‍💻 I currently work as a Data Engineer for [Asia Commercial Bank](https://acb.com.vn/).
 
-- 🔭 I am currently working on [Iceberg Lakehouse Platform](https://github.com/nitsvutt/iceberg-lakehouse-platform).
+- 🔭 I am currently working on [Lakehouse Platform](https://github.com/nitsvutt/lakehouse-platform).
 
 - 🌱 I am currently learning [Apache Iceberg](https://iceberg.apache.org/).
 
