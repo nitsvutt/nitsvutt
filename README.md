@@ -22,7 +22,7 @@
 
 - 🔭 I am currently working on [Lakehouse Platform](https://github.com/nitsvutt/lakehouse-platform).
 
-- 🌱 I am currently learning [Apache Iceberg](https://iceberg.apache.org/).
+- 🌱 I am currently learning [Apache Hudi](https://hudi.apache.org/).
 
 - 📝 All of my projects are available at [here](https://github.com/nitsvutt?tab=repositories).
     
