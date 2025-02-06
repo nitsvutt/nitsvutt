@@ -47,7 +47,7 @@
         <img src="https://www.postgresql.org/media/img/about/press/elephant.png" title="PostgreSQL" alt="postgresql" width="40" height="40"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" title="MongoDB" alt="mongodb" width="40" height="40"/>
+        <img src="https://github.com/nitsvutt/nitsvutt/blob/main/asset/mongodb.png" title="MongoDB" alt="mongodb" width="40" height="40"/>
     </a>
     <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" title="Apache Cassandra" alt="cassandra" width="40" height="40"/>
