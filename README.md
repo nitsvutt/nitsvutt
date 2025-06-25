@@ -14,11 +14,9 @@
 
 <p>
 
-- ❤️‍🔥 Data Engineering is my cup of tea.
+- ❤️‍🔥 I am all about Data Engineering.
     
 - 🧑‍🎓 I graduated from [University of Information Technology](https://www.uit.edu.vn).
-    
-- 👨‍💻 I currently work as a Data Engineer for [Asia Commercial Bank](https://acb.com.vn/).
 
 - 🔭 I am currently working on [Lakehouse Platform](https://github.com/nitsvutt/lakehouse-platform).
 
