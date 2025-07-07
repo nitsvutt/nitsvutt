@@ -50,9 +50,6 @@
     <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" title="Apache Cassandra" alt="cassandra" width="40" height="40"/>
     </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" title="Pandas" alt="pandas" width="40" height="40" />
-    </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.try.direct/files/8400033b-cf2e-4fc4-ac91-45cadee082ed.svg" title="FastAPI" alt="fastapi" width="40" height="40" />
     </a>
@@ -72,7 +69,7 @@
         <img src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA" title="Apache Airflow" alt="airflow" width="40" height="40"/>
     </a>
     <a href="https://impala.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.apache.org/logos/res/impala/default.png" title="Apache Impala" alt="impala" width="40" height="40" />
+        <img src="https://www.apache.org/logos/res/impala/default.png" title="Apache Impala" alt="impala" width="20" height="40" />
     </a>
 </p>
 
