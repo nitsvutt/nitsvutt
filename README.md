@@ -84,16 +84,13 @@
         <img src="https://hive.apache.org/images/hive.svg" title="Apache Hive" alt="hive" width="40" height="40"/>
     </a>
     <a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://storage.googleapis.com/external-docs-assets/logos/apache_iceberg.png" title="Apache Iceberg" alt="iceberg" height="40" />
-    </a>
-    <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
-        <img src="https://lh3.googleusercontent.com/p9ST3mhfKqDdxwwgyGHCFmCddgFeHnYlQfCbORDHJm48z1cZhEknPXlbY_iGsnr2sIPk8EVanoqGjA=e14-rw-lo-sc0xffffff-h48" title="Google Cloud Bigquery" alt="bigquery" width="40" height="40"/>
+        <img src="https://storage.googleapis.com/external-docs-assets/logos/apache_iceberg.png" title="Apache Iceberg" alt="iceberg" width="40" height="40" />
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" title="Docker" alt="docker" height="40" />
+        <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" title="Docker" alt="docker" width="40" height="40" />
     </a>
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1234px-Kubernetes_logo_without_workmark.svg.png" title="Kubernetes" alt="kubernetes" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1234px-Kubernetes_logo_without_workmark.svg.png" title="Kubernetes" alt="kubernetes" width="40" height="40" />
     </a>
 </p>
 
