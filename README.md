@@ -39,7 +39,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="mysql" width="40" height="40"/>
     </a>
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" title="Oracle" alt="oracle" width="40" height="40"/>
+        <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" title="Oracle" alt="oracle" width="60" height="40"/>
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://www.postgresql.org/media/img/about/press/elephant.png" title="PostgreSQL" alt="postgresql" width="40" height="40"/>
@@ -66,13 +66,13 @@
         <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" title="Apache Kafka" alt="kafka" width="40" height="40"/>
     </a>
     <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-        <img src="asset/spark.png" title="Apache Spark" alt="spark" height="40" />
+        <img src="asset/spark.png" title="Apache Spark" alt="spark" width="40" height="40" />
     </a>
     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA" title="Apache Airflow" alt="airflow" width="40" height="40"/>
     </a>
     <a href="https://impala.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.apache.org/logos/res/impala/default.png" title="Apache Impala" alt="impala" height="40" />
+        <img src="https://www.apache.org/logos/res/impala/default.png" title="Apache Impala" alt="impala" width="40" height="40" />
     </a>
 </p>
 
