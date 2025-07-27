@@ -65,11 +65,14 @@
     <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
         <img src="asset/spark.png" title="Apache Spark" alt="spark" width="60" height="40" />
     </a>
-    <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA" title="Apache Airflow" alt="airflow" width="40" height="40"/>
-    </a>
     <a href="https://impala.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.apache.org/logos/res/impala/default.png" title="Apache Impala" alt="impala" width="20" height="40" />
+    </a>
+    <a href="https://trino.io/" target="_blank" rel="noreferrer">
+        <img src="asset/trino.png" title="Trino" alt="trino" width="40" height="40" />
+    </a>
+    <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA" title="Apache Airflow" alt="airflow" width="40" height="40"/>
     </a>
 </p>
 
