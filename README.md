@@ -22,7 +22,7 @@
     
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+<h2 align="center">Languages and Tools</h2>
 
 <p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -90,14 +90,14 @@
     </a>
 </p>
 
-<h3 align="center">Github Statistics</h3>
+<h2 align="center">Github Statistics</h2>
 
 <p align="center">
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=nitsvutt&show_icons=true,prs&cache_seconds=86400&theme=transparent" alt="nitsvutt"/>
     <img width="280" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitsvutt&show_icons=true&locale=en&layout=compact&theme=transparent" alt="nitsvutt" />
 </p>
 
-<h3 align="center">Contact me</h3>
+<h2 align="center">Contact me</h2>
 
 <p align="center">
     <a href="https://linkedin.com/in/nitsvutt" target="_blank" rel="noreferrer">
