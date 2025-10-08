@@ -10,7 +10,7 @@
 
 <p>
 
-- 🇻🇳 I am Tran Trieu Vu, an enthusiastic Data Engineer from Vietnam.
+- 🇻🇳 I am a dedicated Data Engineer from [Vietnam](https://www.google.com/maps/place/Vietnam).
 
 - 🧑‍🎓 I graduated from [University of Information Technology](https://www.uit.edu.vn).
 
