@@ -1,10 +1,6 @@
 <h1 align="center">
-    Hi there <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/main/assets/wave.gif" height="26" alt="Hi there">,
+    Hi <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/main/assets/wave.gif" height="26" alt="there">, welcome to my Github profile!
 </h1>
-
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=54A6FF&pause=0&center=true&vCenter=true&multiline=true&width=720&height=70&lines=Welcome+to+my+Github-profile" alt="Welcome to my Github profile!" />
-</p>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=nitsvutt" alt="profile views" />
