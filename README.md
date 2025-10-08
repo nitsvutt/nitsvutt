@@ -14,7 +14,7 @@
 
 <p>
 
-- ❤️‍🔥 I am all about Data Engineering.
+- ❤️‍🔥 I am a dedicated Data Engineer.
     
 - 🧑‍🎓 I graduated from [University of Information Technology](https://www.uit.edu.vn).
 
