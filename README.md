@@ -1,9 +1,9 @@
 <h1 align="center">
-    Hi <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/main/assets/wave.gif" height="26" alt="there">, welcome to my GitHub Profile!
+    Hi there <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/main/assets/wave.gif" height="26" alt="Hi there">,
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=54A6FF&pause=0&center=true&vCenter=true&multiline=true&width=720&height=70&lines=I+am+Tran+Trieu+Vu,;an+enthusiastic+Data+Engineer+from+Vietnam+🇻🇳" alt="I am Tran Trieu Vu, an enthusiastic Data Engineer from Vietnam 🇻🇳" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=54A6FF&pause=0&center=true&vCenter=true&multiline=true&width=720&height=70&lines=Welcome+to+my+Github-profile" alt="Welcome to my Github profile!" />
 </p>
 
 <p align="center"> 
@@ -13,7 +13,9 @@
 <img align="right" title="Data Engineering" alt="Data Engineering" width="400" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Top_Data_Engineering_Tools_for_2022.jpg">
 
 <p>
-    
+
+- 🇻🇳 I am Tran Trieu Vu, an enthusiastic Data Engineer from Vietnam.
+
 - 🧑‍🎓 I graduated from [University of Information Technology](https://www.uit.edu.vn).
 
 - 🔭 I am currently working on [Lakehouse Platform](https://github.com/nitsvutt/lakehouse-platform).
