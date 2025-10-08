@@ -13,8 +13,6 @@
 <img align="right" title="Data Engineering" alt="Data Engineering" width="400" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Top_Data_Engineering_Tools_for_2022.jpg">
 
 <p>
-
-- ❤️‍🔥 I am a dedicated Data Engineer.
     
 - 🧑‍🎓 I graduated from [University of Information Technology](https://www.uit.edu.vn).
 
