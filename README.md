@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=nitsvutt" alt="profile views" />
 </p>
 
-<img align="right" title="Data Engineering" alt="Data Engineering" width="350" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Top_Data_Engineering_Tools_for_2022.jpg">
+<img align="right" title="Data Engineering" alt="Data Engineering" width="300" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Top_Data_Engineering_Tools_for_2022.jpg">
 
 <p>
 
