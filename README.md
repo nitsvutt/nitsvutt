@@ -46,9 +46,6 @@
     <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" title="Apache Cassandra" alt="cassandra" width="40" height="40"/>
     </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.try.direct/files/8400033b-cf2e-4fc4-ac91-45cadee082ed.svg" title="FastAPI" alt="fastapi" width="40" height="40" />
-    </a>
     <a href="https://www.metabase.com/" target="_blank" rel="noreferrer">
         <img src="https://www.metabase.com/images/logo.svg" title="Metabase" alt="metabase" height="40" />
     </a>
