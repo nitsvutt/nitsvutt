@@ -59,7 +59,7 @@
         <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" title="Apache Kafka" alt="kafka" width="40" height="40"/>
     </a>
     <a href="https://flink.apache.org/" target="_blank" rel="noreferrer">
-        <img src="asset/flink.png" title="Apache Flink" alt="flink" width="60" height="40" />
+        <img src="asset/flink.png" title="Apache Flink" alt="flink" width="40" height="40" />
     </a>
     <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
         <img src="asset/spark.png" title="Apache Spark" alt="spark" width="60" height="40" />
