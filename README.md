@@ -76,6 +76,9 @@
 </p>
 
 <p align="center">
+    <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
+        <img src="asset/bigquery.png" title="Google BigQuery" alt="bigquery" width="40" height="40"/>
+    </a>
     <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" title="Apache Hadoop" alt="hadoop" width="40" height="40"/>
     </a>
