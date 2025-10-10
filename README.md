@@ -47,7 +47,7 @@
         <img src="asset/scylladb.webp" title="ScyllaDB" alt="scylladb" height="40"/>
     </a>
     <a href="https://www.superset.apache.com/" target="_blank" rel="noreferrer">
-        <img src="asset/superset.png" title="Apache Superset" alt="superset" width="40" />
+        <img src="asset/superset.png" title="Apache Superset" alt="superset" height="40" />
     </a>
 </p>
 
