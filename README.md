@@ -104,12 +104,12 @@
 
 <p align="center">
     <a href="https://linkedin.com/in/nitsvutt" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" title="Linkedin" alt="linkedin" width="28" height="28" />
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" title="Linkedin" alt="linkedin" height="28" />
     </a>
     <a href="mailto:nitsvutt@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" title="Gmail" alt="gmail" height="28" />
     </a>
     <a href="https://instagram.com/nitsvutt" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="instagram" width="28" height="28" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="instagram" height="28" />
     </a>
 </p>
