@@ -93,12 +93,12 @@
     </a>
 </p>
 
-<h2 align="center">Github Statistics</h2>
+<!-- <h2 align="center">Github Statistics</h2>
 
 <p align="center">
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=nitsvutt&show_icons=true,prs&cache_seconds=86400&theme=transparent" alt="nitsvutt"/>
     <img width="280" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitsvutt&show_icons=true&locale=en&layout=compact&theme=transparent" alt="nitsvutt" />
-</p>
+</p> -->
 
 <h2 align="center">Contact me</h2>
 
