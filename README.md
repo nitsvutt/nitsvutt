@@ -55,9 +55,6 @@
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" title="Apache Kafka" alt="kafka" width="40" height="40"/>
     </a>
-    <a href="https://flink.apache.org/" target="_blank" rel="noreferrer">
-        <img src="asset/flink.png" title="Apache Flink" alt="flink" width="40" height="40" />
-    </a>
     <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
         <img src="asset/spark.png" title="Apache Spark" alt="spark" width="60" height="40" />
     </a>
@@ -89,7 +86,13 @@
         <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" title="Docker" alt="docker" width="40" height="40" />
     </a>
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1234px-Kubernetes_logo_without_workmark.svg.png" title="Kubernetes" alt="kubernetes" width="40" height="40" />
+        <img src="asset/kubernetes.png" title="Kubernetes" alt="kubernetes" width="40" height="40" />
+    </a>
+    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+        <img src="asset/jenkins.png" title="Jenkins" alt="jenkins" width="40" height="40" />
+    </a>
+    <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+        <img src="asset/argocd.png" title="Argo CD" alt="argocd" width="40" height="40" />
     </a>
 </p>
 
