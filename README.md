@@ -89,7 +89,7 @@
         <img src="asset/kubernetes.png" title="Kubernetes" alt="kubernetes" width="40" height="40" />
     </a>
     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-        <img src="asset/jenkins.png" title="Jenkins" alt="jenkins" width="40" height="40" />
+        <img src="asset/jenkins.svg" title="Jenkins" alt="jenkins" width="40" height="40" />
     </a>
     <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
         <img src="asset/argocd.png" title="Argo CD" alt="argocd" width="40" height="40" />
