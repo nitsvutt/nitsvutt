@@ -16,7 +16,7 @@
 
 - 🔭 I am currently working on [Lakehouse Platform](https://github.com/nitsvutt/lakehouse-platform).
 
-- 🌱 I am currently learning [Apache Flink](https://flink.apache.org/).
+- 🌱 I am currently learning [Databricks](https://www.databricks.com/).
 
 - 📝 All of my projects are available at [here](https://github.com/nitsvutt?tab=repositories).
     
