@@ -80,7 +80,7 @@
         <img src="https://hive.apache.org/images/hive.svg" title="Apache Hive" alt="hive" width="40" height="40"/>
     </a>
     <a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://storage.googleapis.com/external-docs-assets/logos/apache_iceberg.png" title="Apache Iceberg" alt="iceberg" width="40" height="40" />
+        <img src="asset/iceberg.png" title="Apache Iceberg" alt="iceberg" width="40" height="40" />
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" title="Docker" alt="docker" width="40" height="40" />
@@ -110,7 +110,7 @@
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" title="Linkedin" alt="linkedin" height="28" />
     </a>
     <a href="mailto:nitsvutt@gmail.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" title="Gmail" alt="gmail" height="28" />
+        <img src="asset/gmail.png" title="Gmail" alt="gmail" height="28" />
     </a>
     <a href="https://instagram.com/nitsvutt" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="instagram" height="28" />
