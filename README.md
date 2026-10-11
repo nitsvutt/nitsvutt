@@ -37,18 +37,18 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://www.postgresql.org/media/img/about/press/elephant.png" title="PostgreSQL" alt="postgresql" width="40" height="40"/>
     </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <!-- <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" title="Oracle" alt="oracle" width="60" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="asset/mongodb.png" title="MongoDB" alt="mongodb" width="40" height="40"/>
-    </a>
+    </a> -->
+    <!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="assets/mongodb.png" title="MongoDB" alt="mongodb" width="40" height="40"/>
+    </a> -->
     <a href="https://www.scylladb.com/" target="_blank" rel="noreferrer">
-        <img src="asset/scylladb.webp" title="ScyllaDB" alt="scylladb" height="40"/>
+        <img src="assets/scylladb.webp" title="ScyllaDB" alt="scylladb" height="40"/>
     </a>
-    <a href="https://www.superset.apache.com/" target="_blank" rel="noreferrer">
-        <img src="asset/superset.png" title="Apache Superset" alt="superset" height="40" />
-    </a>
+    <!-- <a href="https://www.superset.apache.com/" target="_blank" rel="noreferrer">
+        <img src="assets/superset.png" title="Apache Superset" alt="superset" height="40" />
+    </a> -->
 </p>
 
 <p align="center">
@@ -56,22 +56,25 @@
         <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" title="Apache Kafka" alt="kafka" width="40" height="40"/>
     </a>
     <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-        <img src="asset/spark.png" title="Apache Spark" alt="spark" width="60" height="40" />
+        <img src="assets/spark.png" title="Apache Spark" alt="spark" width="60" height="40" />
     </a>
-    <a href="https://impala.apache.org/" target="_blank" rel="noreferrer">
+    <!-- <a href="https://impala.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.apache.org/logos/res/impala/default.png" title="Apache Impala" alt="impala" width="20" height="40" />
-    </a>
+    </a> -->
     <a href="https://trino.io/" target="_blank" rel="noreferrer">
-        <img src="asset/trino.png" title="Trino" alt="trino" width="40" height="40" />
+        <img src="assets/trino.png" title="Trino" alt="trino" width="40" height="40" />
     </a>
     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA" title="Apache Airflow" alt="airflow" width="40" height="40"/>
+    </a>
+    <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
+        <img src="assets/dbt.png" title="dbt" alt="dbt" width="40" height="40"/>
     </a>
 </p>
 
 <p align="center">
     <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
-        <img src="asset/bigquery.png" title="Google BigQuery" alt="bigquery" width="40" height="40"/>
+        <img src="assets/bigquery.png" title="Google BigQuery" alt="bigquery" width="40" height="40"/>
     </a>
     <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" title="Apache Hadoop" alt="hadoop" width="40" height="40"/>
@@ -80,19 +83,22 @@
         <img src="https://hive.apache.org/images/hive.svg" title="Apache Hive" alt="hive" width="40" height="40"/>
     </a>
     <a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer">
-        <img src="asset/iceberg.png" title="Apache Iceberg" alt="iceberg" width="40" height="40" />
+        <img src="assets/iceberg.png" title="Apache Iceberg" alt="iceberg" width="40" height="40" />
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" title="Docker" alt="docker" width="40" height="40" />
     </a>
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-        <img src="asset/kubernetes.png" title="Kubernetes" alt="kubernetes" width="40" height="40" />
+        <img src="assets/kubernetes.png" title="Kubernetes" alt="kubernetes" width="40" height="40" />
     </a>
-    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-        <img src="asset/jenkins.svg" title="Jenkins" alt="jenkins" height="40" />
+    <!-- <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+        <img src="assets/jenkins.svg" title="Jenkins" alt="jenkins" height="40" />
     </a>
     <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
-        <img src="asset/argocd.png" title="Argo CD" alt="argocd" width="40" height="40" />
+        <img src="assets/argocd.png" title="Argo CD" alt="argocd" width="40" height="40" />
+    </a> -->
+    <a href="https://claude.com/product/claude-code" target="_blank" rel="noreferrer">
+        <img src="assets/claude.webp" title="Claude" alt="Claude" width="40" height="40" />
     </a>
 </p>
 
@@ -110,7 +116,7 @@
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" title="Linkedin" alt="linkedin" height="28" />
     </a>
     <a href="mailto:nitsvutt@gmail.com" target="_blank" rel="noreferrer">
-        <img src="asset/gmail.png" title="Gmail" alt="gmail" height="28" />
+        <img src="assets/gmail.png" title="Gmail" alt="gmail" height="28" />
     </a>
     <a href="https://instagram.com/nitsvutt" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="instagram" height="28" />
